@@ -1,8 +1,3 @@
-
----
-title: Document Center
----
-
 # CSCI 355 final project
 
 ## Summary
